@@ -1,0 +1,1 @@
+export const GRAFIK_DEGIS = "GRAFIK_DEGIS";
